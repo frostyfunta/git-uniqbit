@@ -1,13 +1,1 @@
-# Project Name
-
-A brief description of what this project does and who it's for
-
-## Table of Contents
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
-This is some new text
-even newer text
+Das ist eine neue Änderung
