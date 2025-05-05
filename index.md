@@ -1,3 +1,8 @@
+---
+title: "Lasagne mit Ragù alla Bolognese"
+layout: default
+---
+<link rel="stylesheet" href="/assets/css/style.css">
 
 # Lasagne mit Ragù alla Bolognese
 
