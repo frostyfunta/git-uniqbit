@@ -1,0 +1,7 @@
+header, .page-header {
+  display: none !important;
+}
+
+main {
+  padding: 2rem;
+}
